@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_layout_miami/static/css/main.fa97e815.chunk.css",
+    "main.css": "/react_layout_miami/static/css/main.fb0a1be7.chunk.css",
     "main.js": "/react_layout_miami/static/js/main.b153ed86.chunk.js",
     "main.js.map": "/react_layout_miami/static/js/main.b153ed86.chunk.js.map",
     "runtime~main.js": "/react_layout_miami/static/js/runtime~main.59dfb4f6.js",
@@ -8,9 +8,9 @@
     "static/js/2.ec295295.chunk.js": "/react_layout_miami/static/js/2.ec295295.chunk.js",
     "static/js/2.ec295295.chunk.js.map": "/react_layout_miami/static/js/2.ec295295.chunk.js.map",
     "index.html": "/react_layout_miami/index.html",
-    "precache-manifest.582dce1c1c06440f7e24976c945250c2.js": "/react_layout_miami/precache-manifest.582dce1c1c06440f7e24976c945250c2.js",
+    "precache-manifest.0232678adfdbcb66f3fc74e0df2724df.js": "/react_layout_miami/precache-manifest.0232678adfdbcb66f3fc74e0df2724df.js",
     "service-worker.js": "/react_layout_miami/service-worker.js",
-    "static/css/main.fa97e815.chunk.css.map": "/react_layout_miami/static/css/main.fa97e815.chunk.css.map",
+    "static/css/main.fb0a1be7.chunk.css.map": "/react_layout_miami/static/css/main.fb0a1be7.chunk.css.map",
     "static/media/Header.scss": "/react_layout_miami/static/media/header-bg.4f75d126.png",
     "static/media/Footer.scss": "/react_layout_miami/static/media/nastol.com.63a8d2c1.png"
   }
